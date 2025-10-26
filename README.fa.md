@@ -41,7 +41,7 @@ EduVerse یک پلتفرم آموزشی با تأثیر اجتماعی است ک
 ### 1. کلون کردن مخزن
 
 ```bash
-git clone https://github.com/AmirhosseinAgrest/eduverse.git
+git clone https://github.com/AmirhosseinAgrest/EduVerse.git
 cd eduverse
 ```
 
