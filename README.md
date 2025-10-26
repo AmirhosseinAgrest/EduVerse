@@ -41,7 +41,7 @@ EduVerse is a social impact learning platform designed to empower underserved le
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/eduverse.git
+git clone https://github.com/AmirhosseinAgrest/EduVerse.git
 cd eduverse
 ```
 ### 2. Install dependencies
@@ -98,3 +98,4 @@ This documentation is available in multiple languages:
 - [فارسی](./README.fa.md)  
 - [Español](./README.es.md)  
 - [العربية](./README.ar.md)  
+
