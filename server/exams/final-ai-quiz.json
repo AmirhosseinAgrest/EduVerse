@@ -1,0 +1,150 @@
+{
+  "examId": "final-ai-quiz",
+  "title": "final AI quiz",
+  "description": "path, including machine learning, neural networks, computer vision, and natural language processing. The quiz consists of multiple-choice questions designed to test both theoretical knowledge and practical reasoning. To pass and receive your official Eduverse certificate, you must score at least 70%. You can review your answers before submitting. Good luck!",
+  "durationMinutes": 10,
+  "createdAt": "2025-10-22T11:38:54.743Z",
+  "creator": {
+    "name": "Eduverse Team",
+    "email": "team@eduverse.com"
+  },
+  "access": {
+    "public": true
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Which component introduces non-linearity in neural networks?",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "Weights",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Biases",
+          "isCorrect": false
+        },
+        {
+          "id": "c3",
+          "text": "Activation Functions",
+          "isCorrect": true
+        },
+        {
+          "id": "c4",
+          "text": "Loss Functions",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "What is a common approach to prevent overfitting?",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "Using only training data",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Data augmentation and regularization",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "Increasing model size",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "Ignoring validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Which architecture is central to modern NLP advancements?",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "RNNs",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Transformers",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "Autoencoders",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "KNN",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Which is NOT typically part of a robust ML pipeline?",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "Data collection",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Feature engineering",
+          "isCorrect": false
+        },
+        {
+          "id": "c3",
+          "text": "Model teleportation",
+          "isCorrect": true
+        },
+        {
+          "id": "c4",
+          "text": "Evaluation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "What is a hallmark of CNNs in computer vision?",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "Recurrent loops over sequences",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Convolutional filters extracting spatial features",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "Graph-based attention",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "Clustering unlabeled data",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "status": {
+    "isActive": true,
+    "expiredAt": "2030-10-22T11:40:54.743Z"
+  }
+}

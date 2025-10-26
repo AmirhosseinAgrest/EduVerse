@@ -1,0 +1,150 @@
+{
+  "examId": "exzamchain_ai_basics_infinite",
+  "title": "مبانی هوش مصنوعی و یادگیری ماشین",
+  "description": "این آزمون برای سنجش درک مفاهیم پایه‌ای هوش مصنوعی و یادگیری ماشین طراحی شده است.",
+  "durationMinutes": 20,
+  "createdAt": "2025-10-22T11:38:54.743Z",
+  "creator": {
+    "name": "Eduverse Team",
+    "email": "team@eduverse.com"
+  },
+  "access": {
+    "public": true
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "کدام گزینه تعریف مناسبی از هوش مصنوعی ارائه می‌دهد؟",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "سیستمی که فقط داده‌ها را ذخیره می‌کند",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "سیستمی که می‌تواند وظایف شناختی انسان را شبیه‌سازی کند",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "برنامه‌ای برای طراحی گرافیک",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "ابزاری برای مدیریت پایگاه داده",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "در یادگیری ماشین، منظور از 'داده آموزشی' چیست؟",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "داده‌هایی که برای تست مدل استفاده می‌شوند",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "داده‌هایی که برای آموزش مدل استفاده می‌شوند",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "داده‌هایی که از اینترنت جمع‌آوری شده‌اند",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "داده‌هایی که توسط انسان تولید نشده‌اند",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "کدام الگوریتم زیر برای دسته‌بندی (Classification) استفاده می‌شود؟",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "K-Means",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "Linear Regression",
+          "isCorrect": false
+        },
+        {
+          "id": "c3",
+          "text": "Decision Tree",
+          "isCorrect": true
+        },
+        {
+          "id": "c4",
+          "text": "PCA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "هدف اصلی الگوریتم‌های یادگیری نظارت‌شده چیست؟",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "یادگیری بدون داده‌های برچسب‌دار",
+          "isCorrect": false
+        },
+        {
+          "id": "c2",
+          "text": "پیش‌بینی خروجی بر اساس ورودی‌های مشخص",
+          "isCorrect": true
+        },
+        {
+          "id": "c3",
+          "text": "کاهش ابعاد داده",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "افزایش حجم داده‌ها",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "کدام مورد از کاربردهای رایج هوش مصنوعی است؟",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "تشخیص چهره",
+          "isCorrect": true
+        },
+        {
+          "id": "c2",
+          "text": "نقاشی سنتی",
+          "isCorrect": false
+        },
+        {
+          "id": "c3",
+          "text": "ذخیره‌سازی فایل‌ها",
+          "isCorrect": false
+        },
+        {
+          "id": "c4",
+          "text": "ساخت دیوار صوتی",
+          "isCorrect": false
+        }
+      ]
+    }
+  ],
+  "status": {
+    "isActive": true,
+    "expiredAt": "2030-10-22T11:40:54.743Z"
+  }
+}
